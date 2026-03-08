@@ -5,8 +5,13 @@ The projects simulate real-world initiatives that could exist within global luxu
 Each project demonstrates practical capabilities across:
 
 • Data Analytics
+
 • Digital Workplace Transformation
+
 • Data Governance
+
 • Pricing Operations
+
 • IT Service Management
+
 • Predictive Operations & Machine Learning
