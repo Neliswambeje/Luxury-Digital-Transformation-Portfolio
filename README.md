@@ -14,7 +14,8 @@ This project explores how predictive analytics can enhance governance intelligen
 
 • Detecting statistical anomalies in KPIs
 
-• Identifying emerging operational risks\n
+• Identifying emerging operational risks
+
 • Supporting data-driven oversight decisions
 
 **Key Features**
