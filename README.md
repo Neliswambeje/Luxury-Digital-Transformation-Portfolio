@@ -32,10 +32,15 @@ Performance trends are analyzed across a 24-month timeline to evaluate stability
 Data domains with abnormal behavior are highlighted to prioritize governance interventions.
 
 **Technical Stack**
+
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib
 
 **Dataset**
@@ -43,39 +48,59 @@ Matplotlib
 The project uses a synthetic multi-domain enterprise dataset covering:
 
 • Governance KPI performance
+
 • Operational risk indicators
+
 • Monthly performance metrics
+
 • Cross-domain compliance tracking
 
 The dataset is designed to simulate real enterprise governance environments.
 
 **Notebook Contents**
+
 1️⃣ Data Preparation & Cleaning
+
 2️⃣ Exploratory Data Analysis
+
 3️⃣ Feature Engineering
+
 4️⃣ Regression Modeling
+
 5️⃣ Model Evaluation & Diagnostics
+
 6️⃣ Anomaly Detection Logic
+
 7️⃣ Performance Trend Visualization
+
 8️⃣ Governance Risk Insights
 
 **Business Value**
 This project illustrates how organizations can:
 
 • Move from reactive reporting to predictive governance
+
 • Detect operational risks earlier
+
 • Improve KPI monitoring intelligence
+
 • Support data-driven compliance oversight
 
 **Portfolio Context**
 This notebook is part of a broader executive analytics portfolio focused on:
 
 • Governance intelligence
+
 • Enterprise performance analytics
+
 • Operational risk monitoring
+
 • Predictive decision support systems
 
 **Author**
+
 **Neliswa Mbeje**
+
 Data & Analytics Professional
+
 Specializing in Governance Intelligence & Predictive Analytics
