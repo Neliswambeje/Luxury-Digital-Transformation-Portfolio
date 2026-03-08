@@ -11,8 +11,11 @@ Traditional governance reporting is reactive and descriptive.
 This project explores how predictive analytics can enhance governance intelligence by:
 
 • Forecasting performance deterioration
+
 • Detecting statistical anomalies in KPIs
+
 • Identifying emerging operational risks
+
 • Supporting data-driven oversight decisions
 
 **Key Features**
